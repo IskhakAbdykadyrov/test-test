@@ -54,7 +54,7 @@
                     <div class="zerogrid">
                         <div class="wrap-box"><!--Start Box-->
                             <div class="box-header">
-                                <h2>НАША ФИЛОСОФИЯ</h2>
+                                <h2>НАША ИСТОРИЯ</h2>
                             </div>
                             <div class="box-content">
                                 <div class="row">
